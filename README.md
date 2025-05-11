@@ -1,4 +1,5 @@
-# Android ArticleSearch - *Name of App Here*
+# Android BitFit-Part-1
+ - *Name of App Here*
 
 Submitted by: **Richard Hall**
 
