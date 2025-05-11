@@ -15,6 +15,11 @@ The following **required** functionality is completed:
 * [ ] Define your data to save using Room entities
 * [ ] Create your own functions to interact with your database using Room DAOs
 * [ ] Update a RecyclerView with data from a database
+* [ ] Create new Fragments
+* [ ] Break up last unit's UI into multiple Fragments
+* [ ] Handle navigation between Fragments
+* [ ] Use Android Navigation UI like BottomNavigation, Drawer Layout, Top Bar
+
 
 The following **optional** features are implemented:
 
