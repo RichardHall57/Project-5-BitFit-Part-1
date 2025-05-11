@@ -1,11 +1,11 @@
-# Android BitFit-Part-2
+# Android BitFit-Part-1
  - *Name of App Here*
 
 Submitted by: **Richard Hall**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -15,10 +15,7 @@ The following **required** functionality is completed:
 * [ ] Define your data to save using Room entities
 * [ ] Create your own functions to interact with your database using Room DAOs
 * [ ] Update a RecyclerView with data from a database
-* [ ] Create new Fragments
-* [ ] Break up last unit's UI into multiple Fragments
-* [ ] Handle navigation between Fragments
-* [ ] Use Android Navigation UI like BottomNavigation, Drawer Layout, Top Bar
+
 
 
 The following **optional** features are implemented:
