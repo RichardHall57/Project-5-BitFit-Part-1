@@ -1,11 +1,11 @@
-# Android BitFit-Part-1
+# Android BitFit-Part-2
  - *Name of App Here*
 
 Submitted by: **Richard Hall**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
